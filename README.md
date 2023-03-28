@@ -6,4 +6,4 @@
 <br>
 •	Configurar o Mailchimp para enviar e-mails de propagandas em massa
 <br>
-•	Estilizar o site com CSS.
+•	Estilizar o site com CSS.  
