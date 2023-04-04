@@ -7,3 +7,5 @@
 •	Configurar o Mailchimp para enviar e-mails de propagandas em massa
 <br>
 •	Estilizar o site com CSS.  
+
+• Pagina no Git.io - https://erickhard.github.io/Progbr-page-mail-marketing/
